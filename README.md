@@ -1,4 +1,4 @@
-# Integrated Multi-Omics Reanalysis of RNA-seq and Proteomics Data in Parkinson’s Disease
+# Cross-Omics Integration Reveals Convergent Molecular Signatures in Human Substantia Nigra Dopaminergic Neurons in Parkinson’s Disease 
 
 **Aysegul Murat, Leila Kianmehr, Aleyna Erakcaoglu, Gokmen Zararsiz**
 
