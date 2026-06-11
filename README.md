@@ -19,11 +19,11 @@ The datasets analyzed in this study are publicly available:
 - RNA-seq: GEO – [GSE169755](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169755)
 - Proteomics: PRIDE – [PXD024748](https://www.ebi.ac.uk/pride/archive/projects/PXD024748)
 
-Raw data are not included in this repository. Please download them directly from the original sources.
+Please download them directly from the original sources.
 
 ---
 
 ## Citation
 
 If you use this code, please cite the corresponding article.
-* Integrated Multi-Omics Reanalysis of RNA-seq and Proteomics Data from Human Substantia Nigra Dopaminergic Neurons in Parkinson’s Disease
+* Cross-Omics Integration Reveals Convergent Molecular Signatures in Human Substantia Nigra Dopaminergic Neurons in Parkinson’s Disease 
